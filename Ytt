@@ -1,0 +1,3 @@
+ls -la
+sh WELCOME_SCRIPT.sh
+ls
